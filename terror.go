@@ -69,6 +69,10 @@ func (p *Terror) ErrMsg() []string {
 	return p.errMsg
 }
 
+func (p *Terror) StackTrack() string {
+	return p.stackTrack
+}
+
 func (p *Terror) AttachErrMsg(msg string) *Terror {
 	p.errMsg = append(p.errMsg, msg)
 
