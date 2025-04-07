@@ -1,5 +1,9 @@
 github.com/choveylee/tconst v0.0.0-20221103024542-ac5c9639926c h1:oT0/bvPQBcxdJ4xU5YvtABZLr3lY+2nDJySmJT0/W+Q=
 github.com/choveylee/tconst v0.0.0-20221103024542-ac5c9639926c/go.mod h1:Syql3SzQE0uQEC3V/r2RmHkwBITlNZsDJh7k3lO+oE8=
+github.com/choveylee/tconst v0.0.0-20231210122752-6cb74210bc7b h1:fpeNNAOe0++gzEDUIVxBhBRtZ6/2SOlbVm0o7PEeKYA=
+github.com/choveylee/tconst v0.0.0-20231210122752-6cb74210bc7b/go.mod h1:Syql3SzQE0uQEC3V/r2RmHkwBITlNZsDJh7k3lO+oE8=
+github.com/choveylee/tconst v0.0.0-20250407232812-701038143d1d h1:PUlMMfPDt+r2OXzAZ7FD/13aAg4sglBtnFd8n1klC90=
+github.com/choveylee/tconst v0.0.0-20250407232812-701038143d1d/go.mod h1:PHLsldLEEaIkw+7X5NH3VtONIBAiNeW3KHYdDyJ+fd4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -12,6 +16,10 @@ github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
 github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+github.com/stretchr/testify v1.10.0 h1:Xv5erBjTwe/5IxqUQTdXv5kgmIvbHo3QQyRwhJsOfJA=
+github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

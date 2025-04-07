@@ -1,10 +1,12 @@
 module github.com/choveylee/terror
 
-go 1.19
+go 1.23
+
+toolchain go1.24.1
 
 require (
-	github.com/choveylee/tconst v0.0.0-20221103024542-ac5c9639926c
-	github.com/stretchr/testify v1.8.1
+	github.com/choveylee/tconst v0.0.0-20250407232812-701038143d1d
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
